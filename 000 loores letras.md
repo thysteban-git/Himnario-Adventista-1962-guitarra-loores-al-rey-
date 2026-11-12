@@ -3352,36 +3352,47 @@ El profeta oraba y la lluvia caía.
    Y  el
         evangelio de paz el mundo entenderá.
   Y  el Evangelio de paz el mundo entenderá.
-#  732
-   Vo se que Cristo hará camino
+
+# 732 Yo se que Cristo hará camino
   
-  [V1]
-  Yo  se <^ue Cristo hará camino para mi,
-  yo se que Cristo hará camino para mí;
-  si yo vivo en santidad, sigo el bien y dejo el mal.
-  Yo se aue Cristo hará camino para mi.
-  [V2]
-      Yo sé que Cristo siempre me ayudara,
-  yo se que Cristo siempre me ayudará;
-  si consagro todo a él y si vivo siempre fiel.
-  Yo se que Cristo siempre me ayudara.
+[V1]
+Yo se que Cristo hará camino para mi,
+yo se que Cristo hará camino para mí;
+si yo vivo en santidad, sigo el bien y dejo el mal.
+Yo se que Cristo hará camino para mi.
+[V2]
+Yo sé que Cristo siempre me ayudara,
+yo se que Cristo siempre me ayudará;
+si consagro todo a él y si vivo siempre fiel.
+Yo se que Cristo siempre me ayudara.
 
 
 
-#        733
-  La esclavitud de Egipto
-  [V1]
-  En Egipto esclavo fiai sí, sí, oh ,sí. En Egipto esclavo, fui del vil Faraón
-  Triste muy triste estaba mi corazón lloraba hazme libre Señor, (bis)
-  Moisés fiie a Faraón sí, sí, oh, sí Moisés fue a Faraón y le dijo así: Deja ir a mi pueblo, para rendirme culto ha dicho el Señor.
-  ^raón se endureció sí, sí, oh, sí. Faraón se endureció y no nos dejó ir
-  Dios envió diez plagas desenvainó su espada y nos dio la libertad, (bis)
-  Libre, tú me hiciste libre, tú me hiciste libre, libre Señor, (bis) Ahora que libre estoy, sí, sí, oh, sí,
-  Ahora que libre estoy, libre para ti.
-  Quiero rendirte culto, quiero cantarte gloria gloria a ti Señor.
+# 733 La esclavitud de Egipto
+[V1]
+En Egipto esclavo fiai sí, sí, oh ,sí. 
+En Egipto esclavo, fui del vil Faraón
+Triste muy triste estaba mi corazón 
+lloraba hazme libre Señor, (bis)
+
+Moisés fiie a Faraón sí, sí, oh, sí 
+Moisés fue a Faraón y le dijo así:
+ Deja ira mi pueblo, para rendirme 
+ culto ha dicho el Señor.
+
+Faraón se endureció sí, sí, oh, sí. 
+Faraón se endureció y no nos dejó ir
+Dios envió diez plagas desenvainó su espada y nos dio la libertad, (bis)
+Libre, tú me hiciste libre, tú me hiciste libre, libre Señor, (bis) Ahora quelibre estoy, sí, sí, oh, sí,
+Ahora que libre estoy, libre para ti.
+Quiero rendirte culto, quiero 
+cantarte gloria gloria a ti Señor.
        gloria.
  , glori^ Aleluya, aleluya, a ti, Señor, mis.
-  Libre, tú me hiciste ibre, tú me hiciste libre, libre, Señor, (bis)
+Libre, tú me hiciste ibre, tú me
+hiciste libre, libre, Señor, (bis)
+
+
 #            734
 # Una mirada de fe
   Una mirada de fe,
