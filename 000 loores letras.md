@@ -1,5 +1,5 @@
 
-# 528 Proclamad juventud reformista
+### 528 Proclamad juventud reformista
   
   [V1]
    Proclamad, juventud reformista, el glorioso evangelio de amor, que transforma del hombre la vida,
@@ -16,7 +16,7 @@
   Que destruye la horrenda penumbra,
   adelante, febril juventud.
 
-#  529 Sigue orando
+###  529 Sigue orando
 [V1]
 Sí las tormentas rugen en ti, y en negras sombras vas; 
 si tu alma llena está de pavor sigue orando así
@@ -30,7 +30,7 @@ dile a tu Padre de tu dolor sigue orando así.
 Ora confiando, Dios oirá, lleno de compasión.
 Pues a sus hijos él cuidará sigue orando así.
 
-# 530 Tierra de la Palestina
+### 530 Tierra de la Palestina
 
 [V1]
 Tierra  bendita y divina es la de Palestina, donde nació Jesús;
@@ -46,7 +46,7 @@ Quedan en ti testigos mudos, aue son los viejos muros ae la Jerusalén; viejas p
 
 
 
- # 531 La vid y los pámpanos
+ ### 531 La vid y los pámpanos
 
 [V1] Yo soy la vid y mi Padre el Labrador,
 vosotros pámpanos, dice el Salvador.
@@ -66,7 +66,7 @@ con el amor de mi Padre amo yo. Dejad mi amor siempre brillar con todo su fulgor
 grato será obedecer mi voluntad. Todo mi gozo en vosotros estará y vuesfro gozo confruto cumplido será.
 
 
-# 532 Caminando, caminando
+### 532 Caminando, caminando
 [V1]
 Gozándome yo voy al hogar celestial;
 caminando, caminando.
@@ -86,7 +86,7 @@ Su nombre sacrosanto yo alabaré, caminando para aquel hogar
 
 
 
-#      533
+###      533
   Todo en el altar
   [V1]
   ¿Anhelaste la paz y crecer en la fe? ¿Santo loor a Jesús ofrecer?
@@ -107,7 +107,7 @@ Su nombre sacrosanto yo alabaré, caminando para aquel hogar
 
 
 
-# 534 Jesús el Buen Pastor
+### 534 Jesús el Buen Pastor
   
 [V1]
 Jesús, el Buen Pastor, mostrando su tierno amor,
@@ -127,7 +127,7 @@ Con Cristo moraré, y siempre le cantaré
 por toda la eternidad; de reves es el Rey, 
 tributo le brindaré, pues tiene toda potestad
 
-# 535 Rumbo adonde
+### 535 Rumbo adonde
   
 [V1]
 ¿Rumbo adonde, alma mtranquila?   ¿No has tenido puerto seguro?
@@ -142,7 +142,7 @@ El llevara tus muchos pecados: los cambiará por su paz completa.
 ¿Rumbo a dónde, alma perdida? ¿No has hallado faro amistoso? 
 Mira a Cristo allí colgado, en el Calvario, tu sacrificio.
 
-#  536 Si hay Dios
+###  536 Si hay Dios
   [V1]
   Aunque el necio pensó que no hay Dios,
   yo he escuchado en mi alma su voz.
@@ -165,7 +165,7 @@ Mira a Cristo allí colgado, en el Calvario, tu sacrificio.
 
 
 
-# 537
+### 537
  Brilla en tu lugar
 
 [V1]
@@ -181,7 +181,7 @@ do tu luz podrá resplandecer;
 de tu mano el pan de vida puede aquí venir,
 brilla en el sitio donde estés.
 
-# 538 La mujer samaritana
+### 538 La mujer samaritana
   
 [V1]
 “De tu cántaro dame, dame tú de beber”, a la samaritana, dijo un día Jesús.
@@ -197,7 +197,7 @@ Mas aquél que bebiere de la que le daré, para siempre, declaro que más sed no
 Mas será en él la fuente que para vida eterna con poder saltará.
 
 
-  #   539 Día de juicio
+  ###   539 Día de juicio
   
   [V1]
   Día de juicio ya se acerca, pronto amanecerá.
@@ -214,7 +214,7 @@ Mas será en él la fuente que para vida eterna con poder saltará.
 
 
 
-# 540    Señor lehová. Omnipotente Dios
+### 540    Señor lehová. Omnipotente Dios
   [V1]
   Señor Jehová, omnipotente Dios, tú que los astros riges con poder, oye clemente nuestra humilde voz, nuestra canción hoy dígnate atender.
   [V2]
@@ -226,7 +226,7 @@ Mas será en él la fuente que para vida eterna con poder saltará.
   nuestro servicio sea siempre fiel; rodeános de tu gran protección. Amén.
 
 
-# 541 Oh Señor, procuro en vano
+### 541 Oh Señor, procuro en vano
 [V1]
 Oh, Señor, procuro en vano mi conducta reformar, pues ningún poder humano santidad me puede dar.
   Es mi vida de pecado diaria ofensa para ti; pero mi alma ha confiado en tu sangre carmesí.
@@ -238,7 +238,7 @@ Oh, Señor, procuro en vano mi conducta reformar, pues ningún poder humano sant
   De este modo mi esperanza no vacila y llego a creer que la bienaventuranza en el cielo he de tener
 
 
-# 542 Canten con alegría
+### 542 Canten con alegría
   
 [V1]
 Canten con alegría las alabanzas de Cristo el Rey
@@ -263,7 +263,7 @@ Cristo, el Pastor eterno, que a sus ovejas vino a salvar
 
 
 
-# 543 ¡Firmes! ¡Fuertes!
+### 543 ¡Firmes! ¡Fuertes!
   
 [V1]
 Siervos de Jesús, hombres de verdad,
@@ -282,7 +282,7 @@ Nuestro Capitán es ya vencedor, él nos redimió por su cruz. Guardas del deber
 1nvencibles son los que con afán cada día dan al deber.
 Grande luz tendrán y recibirán magno galardón del Redentor.
 
-# 544 Jesús es mi Rey soberano
+### 544 Jesús es mi Rey soberano
  
 [V1]
 Jesús es mi Rey soberano, mi gozo es cantar su loor; 
@@ -300,7 +300,7 @@ me basta servirte y amarte? ¿Es todo entregarme yo a ti?
 Entonces acepta mi vida, que a ti sólo queda rendida, 
 pues yo soy feliz, pues yo soy feliz por ti.
 
-# 545 La creación
+### 545 La creación
 [V1]
 Dios ha hecho todo lo que el ojo ve; cada cosa de este mimdo terrenal. Todo árbol ylas plantas son de él, las estrellas y el manto celestial.
 [C]
@@ -315,7 +315,7 @@ El perfecto gozo había en el Edén, ellos se gozaban al andar con Dios. Comunio
 
 
 
-# 546 Hay una senda
+### 546 Hay una senda
 [V1]
 Hay una senda que el mundo no conoce,
 hay una senda que yo pude encontrar.
@@ -334,7 +334,7 @@ aquel camino que el cielo me trazó, fue transformado en aquel feliz momentorm?n
 cuando mi Cristo al cielo me llamó. fue transformado en aquel feliz momento
 cuando mi Cristo al cielo me llamo
 
-# 547 Adelante, manda el Señor
+### 547 Adelante, manda el Señor
   
   [V1]
    Cristo, nuestro jefe, nos lleva a la hd,
@@ -356,7 +356,7 @@ cuando mi Cristo al cielo me llamo
   fieles le hemos de seguir.
 
 
-# 548 Grande es tu fidelidad
+### 548 Grande es tu fidelidad
 [V1]
 Oh, Dios Eterno, tu misericordia ni una sombra de duda tendrá; tu compasión y bondad nunca fallan
   y por los siglos el mismo serás.
@@ -371,7 +371,7 @@ Oh, Dios Eterno, tu misericordia ni una sombra de duda tendrá; tu compasión y 
 
 
 
-# 549 Va llegó un año más
+### 549 Va llegó un año más
   
   [V1]
    Ya llegó un año más, y con devoción tenaz caminemos al compás hoy hermanos.
@@ -390,7 +390,7 @@ Oh, Dios Eterno, tu misericordia ni una sombra de duda tendrá; tu compasión y 
   con Jesús, el Capitán venceremos.
   Y  si andamos en la luz con el Salvador Jesús, a pesar de diira cruz, tnunfaremos.
 
-# 550   se acerca un año nuevo
+### 550   se acerca un año nuevo
   
   [V1]
    Se acerca un año nuevo: tu voluntad será.
@@ -404,7 +404,7 @@ Oh, Dios Eterno, tu misericordia ni una sombra de duda tendrá; tu compasión y 
   Se acerca un año nuevo para testificar de grandes bendiciones que tú nos quieres dar. Se acerca im año nuevo; enséñanos así; do quiera que nos lleves, ¡el año es para ti!
   Amén.
 
-# 551 Oh Cristo mío
+### 551 Oh Cristo mío
 [V1]
 Oh Cristo mío. Rey de mi alma, salvásteme del mal, 
 lávame en el raudal de tu preciosa sangre purísima; 
@@ -422,7 +422,7 @@ impartiéndome la santa virtud.
 
 
 
-# 552 Pies divinos
+### 552 Pies divinos
 [V1]
 Pies divinos, pies divinos, pies divinos;
 pies divinos, pies divinos de Jesús, que en la cumbre del Calvario los clavaron en la cruz.
@@ -451,7 +451,7 @@ horadados por mi culpa sin igual;
 nos librasteis del pecado y del juicio etemal.
 Nos librasteis del pecado y del juicio etemal.
 
-# 553  El Piloto de Galilea
+### 553  El Piloto de Galilea
 [V1]
 Si la luz del sol se oculta y vacila en mí la fe, 
 mi plegaria elevo y clamo: ¡Cnsto!, mi piloto sé.
@@ -465,7 +465,7 @@ puedo fiar en mi piloto, y en su seno reposar.
 Cuando llegue a la ribera de la patria celestial, 
 me dará la bienvenida mi Piloto sin igual.
 
-# 554 Angeles cantando están
+### 554 Angeles cantando están
   
   [V1]
   Angeles cantando están tan dulcísima canción; las montañas su eco dan como fiel contestación.
@@ -480,7 +480,7 @@ me dará la bienvenida mi Piloto sin igual.
 
 
 
-#  555 El placer de mi alma
+###  555 El placer de mi alma
 [V1]
 ¿Quién podrá con su presencia impartimie bendición?
 Sólo Cristo y su clemencia pueden dar consolación.
@@ -497,7 +497,7 @@ que su sangre sacrosanta mi alma pudo rescatar.
 Cristo suple en abundancia toda mi necesidad;
 ser de él, es mi ganancia, inefable es su bondad.
 
-# 556 Firme estaré
+### 556 Firme estaré
   
 [V1]
 Cristo ^arda siempre, puedo en él coníiarj
@@ -524,7 +524,7 @@ Muchos    me abandonan, puedo en él confiar;
 otros me engañan, puedo en él confiar.
 Pues, cual la Roca eterna de los siglos, firme estaré.
 
-# 557 En el valle florece la Rosa
+### 557 En el valle florece la Rosa
 [V1]
 En el valle florece la Rosa, la más bella del valle Sarón: y la vida en Cristo eshermosa, si se acepta con el corazón.
 [C]
@@ -539,7 +539,7 @@ es la Rosa más bella que el sol. Es la Rosa de toda la Iglesia; que le sirve co
 
 
 
-# 558 El Cristo de Nazaret
+### 558 El Cristo de Nazaret
 [V1]
 Soñé que en la playa de un mar me vi,
 era el mar de Genesaret, la gente seguía con frenesí al Cristo de Nazaret;
@@ -569,7 +569,7 @@ SI sólo permites que more en ti el Cristo de Nazaret.
 Tú también has de amarle por siempre, en él tu deleite hallarás, 
 te salva, te cuida y te guarda el Cristo de Nazaret.
 
-# 559 ¡Qué felicidad!
+### 559 ¡Qué felicidad!
 [V1]
 Si tú triste estás, y no tienes paz, cuentáselo a él todo en oracion; él teescuchará, te responderá dándote consolación.
 [C]
@@ -582,7 +582,7 @@ Si en la lucha sientes tú fe flaquear, cuéntaselo a él todo en oración; te d
 Si asechado estás por la tentación, cuéntaselo a él todo en oración; y verás que alfin participarás de esa gran felicidad.
 
 
-#    560   Pon tus ojos en Cristo
+###    560   Pon tus ojos en Cristo
   
   [V1]
   ¡Oh!, alma cansada y turbada, ¿sin luz en tu senda andarás?
@@ -601,7 +601,7 @@ Si asechado estás por la tentación, cuéntaselo a él todo en oración; y ver�
   “He aquí, yo contigo estoy”.
   Al mundo perdido^ aprisa, anuncia la salvación noy.
 
-# 561 Jerusalén la hermosa
+### 561 Jerusalén la hermosa
   
 [V1]
 Una noche con la luna,
@@ -624,7 +624,7 @@ Y   cuando Jesús moría en cruz clavado,
 al vil malvado él bendecía.
 Si tú aceptas hoy la sangre que ha derramado, serás llevado a Jerusalén.
 
-# 562  Hay un canto nuevo en mi ser
+### 562  Hay un canto nuevo en mi ser
   [V1]
   Hay un canto nuevo en mi ser, es la voz de mi Jesús, que me dice: “Ven a descansar, tu paz conquisté en la cruz'.
   [C]
@@ -639,7 +639,7 @@ Si tú aceptas hoy la sangre que ha derramado, serás llevado a Jerusalén.
   Cristo en las nubes volverá, bajo el bello cielo azul,
   él entonces mi alma llevará, a vivir en gloria y luz.
   
-#  563 Porque él vive
+###  563 Porque él vive
   
   [V1]
   Dios  nos envió a su hijo. Cristo; él es salud, paz y perdón, vivió y murió por mi pecado; vacía está la tumba porque él triunfó
@@ -654,7 +654,7 @@ Si tú aceptas hoy la sangre que ha derramado, serás llevado a Jerusalén.
 
 
 
-  # 564 Vamos a segar
+  ### 564 Vamos a segar
   [V1]
   Siembra a la mañana granos y bondades;
   siembra al mediodía y al atardecer. La cosecha aguarda y el propicio tiempo,
@@ -669,7 +669,7 @@ Si tú aceptas hoy la sangre que ha derramado, serás llevado a Jerusalén.
   Lágrimas sembráis para el Señor defmundo;
   en dolor obráis para su alfolí; pero pasará el llanto de amargi^a, y traeréis gozosos la dorada mies.
           
-# 565 Por una senda estrecha andaba yo
+### 565 Por una senda estrecha andaba yo
 [V1]
 Por una senda estrecha andaba yo, y allí a un extraño vi,
 la carga que llevaba a mí mostró, era una cruz que conocí.
@@ -686,7 +686,7 @@ la misma que con miedo deseché cuando antes él me ofreció.
 La  senda sigo que su fin tendrá en gloria eterna, paz y amor.
 Do por la cruz na me dará mi guía fiel, mi Salvador.
 
-# 566 ¡Oh, ven sin tardar!
+### 566 ¡Oh, ven sin tardar!
   
 [V1]
 jOh,  no rechaces la verdad!
@@ -708,7 +708,7 @@ Jesús recibe al pecador, que quiera a él su alma unir; ya no desprecies más s
 
 
 
-#  567
+###  567
    Pescadores de hombres
   
   [V1]
@@ -726,7 +726,7 @@ Jesús recibe al pecador, que quiera a él su alma unir; ya no desprecies más s
   “A la luz venid, a la luz venid”.
   Cristo dice: “La luz yo soy, a la luz venid”.
 
-#  568
+###  568
   ¿Soy yo soldado de jesús?
   [V1]
   ¿Soy yo soldado de Jesús y siervo del Señor?
@@ -748,7 +748,7 @@ Jesús recibe al pecador, que quiera a él su alma unir; ya no desprecies más s
   que siga siempre en pos de él, y me guiará en paz.
 
 
-#  569 Maravillosa gracia
+###  569 Maravillosa gracia
   
 [V1]
 Maravillosa gracia vino Jesús a dar,
@@ -769,7 +769,7 @@ es la maravillosa gracia de Jesús.
 
 
 
-# 570 Sonreíd
+### 570 Sonreíd
   
   [V1]
   Hay algo que anda mal en el mundo nuestro hoy, pues hay quien vive en medio del placer y otro en dolor.
@@ -789,7 +789,7 @@ es la maravillosa gracia de Jesús.
   ¿Os duele ver tristeza, miseria y pesar?
   Mediante una sonrisa fácil os será vencer.
  
-# 571 Bendiciones, cuántas tienes ya!
+### 571 Bendiciones, cuántas tienes ya!
 [V1]
 Cuando combatido por la adversidad creas ya perdida tu felicidad; mira lo que el cielo para ti guardó, cuenta las riquezas que el Señor te dio.
 [C]
@@ -803,7 +803,7 @@ Cuando  de otros veas la prosperidad
 y tus pies claudiquen tras de su maldad, cuenta las riquezas que tendrás por fe
 donde el oro es polvo que hollará tu pie.
 
-# 572 Mi hogar celestial
+### 572 Mi hogar celestial
 [V1]
 Hay en el cielo un dulce hogar, donde prefiero yo morar;
 Jesús, mi Señor, me prepara allí un hogar, bellísimo hogar.
@@ -819,7 +819,7 @@ con clara visión puedo conten i; mi hogar, mi bellísimo hogar
 
 
 
-# 573 Yo sé a quién he creído
+### 573 Yo sé a quién he creído
   
 [V1]
 No sé por qué la gracia del Señor rne hizo conocer;
@@ -838,7 +838,7 @@ No sé la hora en que el Señor vendrá; de día o en oscuridad;
 ¿será en el valle o en el mar, que mi Jesús vendrá?
 
 
-# 574 Soy feliz
+### 574 Soy feliz
 
 [V1]
 Vagaba por el mundo sin fe, sin esperanza,
@@ -865,7 +865,7 @@ Cerca   de Ti, oh Cristo, andar yo siempre quiero,
 es mi amparo tu sacrosanto amor; sin ti la vida es triste, muy llena de amarguras,
 mas. Cristo, tú eres mi gran consolación.
 
-# 575 Es todo para mí
+### 575 Es todo para mí
 [V1]
  En el firmamento veo a Dios, 
  en el viento El habla en majestad, 
@@ -889,7 +889,7 @@ mas. Cristo, tú eres mi gran consolación.
  es todo para mí.
 
 
-# 576 El canto de los ángeles
+### 576 El canto de los ángeles
   
 [V1]
 Miles  de árceles del cielo cantan alabanza a l5ios;
@@ -912,7 +912,7 @@ canta de la gran victoria de Jesús y su virtud.
 Mas los ángeles que escuchan no conocen el cantar de los triunfos y victoriasalcanzados al luchar.
 
 
-# 577 Con Jesús Estaré
+### 577 Con Jesús Estaré
 [V1]
 Cuando amanezca el día y el clarín resonará; con Jesús, estaré.
 Con gran júbilo y gozo entraré al más allá, con Jesús estaré.
@@ -926,7 +926,7 @@ Nuestros seres bienqueridos hemos de encontrar allá, con Jesús, estaré.
 En aquel bendito día siempre yo me gozaré; con Jesús, estaré.
 Al Señor que tanto amó cara a cara yo veré, con Jesús, estaré.
 
-# 578 La venida de Cristo
+### 578 La venida de Cristo
 [V1]
 La venida de Cristo se acerca. Pronto viene su iglesia a buscar. 
 No durmamos, estemos alertas; ¡vigilad, vigilad, vigilad!.
@@ -945,7 +945,7 @@ Ganaremos también la na; ¡vigilad, trabajad, perdonad!
 
 
 
-#         579
+###         579
   A solas al huerto yo voy
   
   [V1]
@@ -961,7 +961,7 @@ Ganaremos también la na; ¡vigilad, trabajad, perdonad!
   Con él encantado yo estoy, aunque entorno llegue la noche; Mas me ordena ir, y a escuchar yo voy,
   su voz doquier la pena esté.
 
-# 580 Entenderemos nuestras angustias
+### 580 Entenderemos nuestras angustias
   
 [V1]
 Cuando tentado, yo he deseado 
@@ -988,7 +988,7 @@ cuando le veamos en aquel día,
 lo entenderemos sí, más allá.
 
 
-# 581
+### 581
  ¿Cómo podré estar triste?
   
   [V1]
@@ -1009,7 +1009,7 @@ lo entenderemos sí, más allá.
 
 
 
-# 582 El Rey ya viene
+### 582 El Rey ya viene
 [V1]
 El comercio ya ha cesado, el bullicio termino, 
 los talleres se han cerrado, la cosecha se dejo;
@@ -1031,7 +1031,7 @@ la victoria de la vida y el final de la maldad.
 Togas reales se reparten, la tribuna lista está,
 y el gran de los cielos canta gracia, amor y paz.
 
-# 583  Feliz cumpleaños
+### 583  Feliz cumpleaños
   
   [V1]
   Feliz, feliz cumpleaños deseamos para ti, que el Dios omnipotente te quiera bendecir.
@@ -1040,7 +1040,7 @@ y el gran de los cielos canta gracia, amor y paz.
    [V2]
    A Dios le damos gracias que con amor sin par, al ñn de otro año hermoso te permitió llegar.
 
-# 584  El Lirio de los valles
+### 584  El Lirio de los valles
    [V1]
    Hay un Lirio que habita en los valles,
    en los valles del huerto de Dios. Ese Lirio es Jesús, el Dueño de mi amor;
@@ -1061,9 +1061,9 @@ y el gran de los cielos canta gracia, amor y paz.
    En su dulce canción, dice a mi corazón
   que a su iglesia él viene a buscar.
 
-### FALTA DEL 585 al 590
+##### FALTA DEL 585 al 590
 
-#  591
+###  591
     Sembraré la simiente preciosa
   
   [V1]
@@ -1079,7 +1079,7 @@ y el gran de los cielos canta gracia, amor y paz.
   Sembraré en corazones de mármol la bendita palabra de Dios. Sembraré, sembraré, mientras viva,
  dejaré el resultado al Señor.
 
-# 592
+### 592
     La gloriosa aparición
   
   [V1]
@@ -1098,7 +1098,7 @@ y el gran de los cielos canta gracia, amor y paz.
   ya no más dolores, ya no más a
   con Jesús triunfó el amor.
 
-# 593 Mi culpa él llevó
+### 593 Mi culpa él llevó
   
 [V1]
 Cansado y triste vine al Salvador, mi culpa él llevó,
@@ -1126,7 +1126,7 @@ Tu culpa llevará, tu culpa llevará, y limpiará tu corazón; y diras feliz en 
 
 
 
-#    594 Maravilloso es
+###    594 Maravilloso es
   
   [V1]
   Qué grandiosa es la puesta del sol admirable cual amanecer,
@@ -1144,7 +1144,7 @@ Tu culpa llevará, tu culpa llevará, y limpiará tu corazón; y diras feliz en 
   pero es más grandioso y conmovedor
    el amor que me tiene el Señor.
 
-# 595  ¡Gloria, gloria, aleluya!
+### 595  ¡Gloria, gloria, aleluya!
 [V1]
 Es el Dios de los ejércitos en quien yo confiaré;
   y con címbalos de gozo al Señor ensalzaré.
@@ -1160,7 +1160,7 @@ Es el Dios de los ejércitos en quien yo confiaré;
    y después de treinta años en la cruenta cruz murió.
    Pero vive para siempre, pues la tumba ya venció, su nombre alabaré.
 
-#  596    Bellas mansiones
+###  596    Bellas mansiones
   
   [V1]
   Mansión  gloriosa tengo yo en el cielo,
@@ -1179,7 +1179,7 @@ Es el Dios de los ejércitos en quien yo confiaré;
   A Jesucristo debes ya entregarte, tendrás también una bella mansión.
 
 
-#          597
+###          597
   Dulces melodías cantaré
   
   [V1]
@@ -1201,7 +1201,7 @@ Es el Dios de los ejércitos en quien yo confiaré;
   mi alma alegre con él reinará en la celestial ciudad.
 
 
-# 598 Ya salvo soy
+### 598 Ya salvo soy
   
 [V1]
 Mis culpas todas borró Jesús con infinito amor; cargó con ellas en cruenta cruz en medio demortal dolor.
@@ -1223,7 +1223,7 @@ porque él me guarda siempre fiel.
 Eterno canto en mi corazón elevo al Redentor;
 negar no puedo su salvación, negar, no puedo, no, su amor.
 
-#       599
+###       599
                     Salvador mío, como Tú eres
   [V1]
   Salvador mío, como tú eres puro y santo quiero vivir. Dejando atrás los vanos placeres, en tus pisadas quiero seguir.
@@ -1241,7 +1241,7 @@ negar no puedo su salvación, negar, no puedo, no, su amor.
 
 
 
- #        600
+ ###        600
   Mi Pastor es Jesús
   
   [V1]
@@ -1257,7 +1257,7 @@ negar no puedo su salvación, negar, no puedo, no, su amor.
   el pasto delicioso es para mí. Sediento no he de estar pues tu palabra
   muestra la fuente de salvación aquí.
 
-#   601
+###   601
    Vo sólo espero ese día
    [V2]
    Ya  no me importa que el mundo me desprecie por doquier,
@@ -1275,7 +1275,7 @@ negar no puedo su salvación, negar, no puedo, no, su amor.
   Afán y todo trabajo para mí terminarán,
   cuando Cristo venga, a su reino me llevará.
   Cuando Cristo venga, a su reino me llevará.
-#  602
+###  602
   ¡Oh, bondad tan infinita!
 [V1]
 jOh, bondad tan infinita, hacia el mundo pecador.
@@ -1291,7 +1291,7 @@ jOh, bondad tan infinita, hacia el mundo pecador.
 
 
 
-# 603
+### 603
  6CS
 Años mi alma en vanidad vivió
   
@@ -1310,7 +1310,7 @@ Años mi alma en vanidad vivió
   [V4]
   En   la cruz su amor Dios demostró, y de gracia al hombre revistió. Cuando por nosotros se entregó
   el Salvador.
-#   604^
+###   604^
 
 604 Ahora que soy niño 
 
@@ -1325,7 +1325,7 @@ Años mi alma en vanidad vivió
   “Dejad a los niños que vengan a mí, porque a los niñitos, mi reino les di”. ‘Porque a los niñitos, mi reino les di”.
 
 
-# 605 El que habita al abrigo de Dios
+### 605 El que habita al abrigo de Dios
 
 [V1]
 El que habita al abrigo de Dios morará bajo sombras de amor; sobre él no vendrá ningún mal y ensus alas feliz vivirá.
@@ -1344,7 +1344,7 @@ y sus pies nunca resbalarán.
 El que habita al abrigo de Dios para siempre seguro estará; caerán mil y diez mil por doquier,mas a él no vendrá mortandad.
 
 
-# 606 A tu lado quiero andar
+### 606 A tu lado quiero andar
  
 [V1]
 Débil soy, tu fuerza es tal que me guardarás del mal; 
@@ -1360,7 +1360,7 @@ y al fin en tu mansión gozaré de tu comunión.
 
 
 
-#     607
+###     607
     Treinta piezas de plata
   [V1]
   No hay satisfacción en riqueza mundanal
@@ -1381,7 +1381,7 @@ y al fin en tu mansión gozaré de tu comunión.
   por salvar al hombre vil.
   Más yo despreciaba su incomparable amor; fui hundido en males mil.
 
-#     608
+###     608
      ¿Para qué pecar?
   [V1]
   ¿Para qué pecar si soy salvo, si ya tengo tanta luzT ¿Para que pecar si la vida Dios me ha dado en Jesús?
@@ -1394,7 +1394,7 @@ y al fin en tu mansión gozaré de tu comunión.
   Es mejor vivir santamente, victonosos contra el mal, pues Jesús prepara a su santos una patria etemal.
   Una patria hermosa en los cielos, donde inmundo no entrará.
 
-# 609
+### 609
   Nuestra vida acabará
   
   [V1]
@@ -1417,7 +1417,7 @@ y al fin en tu mansión gozaré de tu comunión.
   Eor Jesús Dios da perdón: usca a Dios.
   Si no escuchas al Señor, si desprecias su perdón, te acarreas perdición: busca a Dios.
 
-# 610 Yo soy un pobre peregrino
+### 610 Yo soy un pobre peregrino
 
 [V1]
  Yo soy un pobre peregrino, 
@@ -1442,7 +1442,7 @@ y al fin en tu mansión gozaré de tu comunión.
  la paz que halló mi corazón; 
  pues con Jesús podré gozarme 
  de la más dulce comunión.
-#   611
+###   611
   Oh yo quiero andar con Cristo
   
   [V1]
@@ -1462,7 +1462,7 @@ y al fin en tu mansión gozaré de tu comunión.
   ¡Oh!, yo quiero andar con Cristo, de mi senda él es la luz, dejaré el perverso mundo y cargar aquí mi cruz.
   Este mundo nada ofi’ece.
   Cristo ofi-ece salvación; y es mi única esperanza gozar vida eterna en Sión.
-#   612
+###   612
     Manos cariñosas
   
   [V1]
@@ -1488,7 +1488,7 @@ y al fin en tu mansión gozaré de tu comunión.
 
 
 
-# 613 Ciertamente el bien de Dios
+### 613 Ciertamente el bien de Dios
 
 [V1]
  Yo fui peregrino eirabundo, 
@@ -1518,7 +1518,7 @@ y al fin en tu mansión gozaré de tu comunión.
  Si tú quieres que él te proteja, 
  hoy recibe su gracia y amor.         
 
-# 614
+### 614
  Oh Señor, recíbeme cual soy
 [V1]
    Oh Señor, recíbeme cual soy,
@@ -1529,7 +1529,7 @@ y al fin en tu mansión gozaré de tu comunión.
   [V3]
   Pecador, tú que vagas sin Dios ven ahora y acepta al Señor, él te quiere impartir su perdón; él te quiere salvar, él te quiere ayudar; hoy acepta el perdón.
 
-# 615 Ven en pos de mí
+### 615 Ven en pos de mí
   
 
 [V1]
@@ -1565,7 +1565,7 @@ de ti muy cerca yo prometo estar”.
 
 
 
-# 616 Nunca« Dios mío
+### 616 Nunca« Dios mío
   [V1]
   Nunca, Dios mío, cesará mi labio de bendecirte y cantar tu gloria, porque conservo, de tu amor inmenso, profunda gratitud.
   [V2]
@@ -1575,7 +1575,7 @@ de ti muy cerca yo prometo estar”.
   Cuando  inclinada mi abatida frente, del mal obrar, al oneroso yugo, dulce reposo
   y eñcaz alivio concédeme, oh Dios.
 
-# 617 Te exaltaré, mí Dios, mi Rey
+### 617 Te exaltaré, mí Dios, mi Rey
 [V1]
  Te exaltaré, mi Dios, mi Rey, 
  y bendeciré tu nombre 
@@ -1588,7 +1588,7 @@ de ti muy cerca yo prometo estar”.
  y su grandeza es inescrutable.
  Cada día te bendeciré.
 
-#      618 Día en día
+###      618 Día en día
   
   [V1]
   Día en Día Cristo está conmigo, me consuela en medio del dolor. Pues confiado en su poder eterno, no me afano, ni me da temor. Sobrepuja todo entendimiento
@@ -1605,7 +1605,7 @@ de ti muy cerca yo prometo estar”.
 
 
 
-#        619
+###        619
 En la vergonzosa cruz
   [V1]
   En la vergonzosa cruz, padeció por mí, Jesús; por la sangre que vertió, mis pecados él expió, lavará de todo mal ese rojo manantial; el aue abrió, por mí, Jesús, en la vergonzosa cruz.
@@ -1619,7 +1619,7 @@ En la vergonzosa cruz
   [V3]
   Yo   de Cristo sólo soy, a seguirle monto estoy; al bendito Redentor serviré con firme amor; sea mi alma ya su hogar, y mi corazón su altar; vida emana, paz v luz, del Calvario, de la cruz.
 
-#        620
+###        620
   Con cánticos. Señor
 [V1]
 Con cánticos. Señor, mi corazón y voz te adoran con fervor.
@@ -1636,7 +1636,7 @@ Con cánticos. Señor, mi corazón y voz te adoran con fervor.
   Mi sumo, todo bien; mil lenguas tu amor cantando siempre estén.
   En tu mansión yo te veré, de ti, perdón feliz tendré.
 
-# 621 El ciego Bartimeo
+### 621 El ciego Bartimeo
 
 [V1]
 Cuando el ciego escuchó que Jesús iba ^ i'’’
@@ -1660,7 +1660,7 @@ Si tú vienes a él, salvación te dará. Dale tu corazón; libre y sano te har�
 
 
 
-# 622 Ora a tu Dios
+### 622 Ora a tu Dios
  [V1]
  Ora a tu Dios de mañana, él oye tu oración; ora a tu Dios por la noche; con él tienes comunión.
  [V2]
@@ -1670,7 +1670,7 @@ Si tú vienes a él, salvación te dará. Dale tu corazón; libre y sano te har�
  Cristo vendrá por su pueblo, él reinará en Sión;
  pronto vendrá en las nubes; con él tienes comunión.
 
-#        623
+###        623
    Lo entenderemos más allá
  
  [V1]
@@ -1691,7 +1691,7 @@ Si tú vienes a él, salvación te dará. Dale tu corazón; libre y sano te har�
   No sabemos porqué Dios esto lo permitirá,
   más lo entenderemos todo más allá.
 
-# 624
+### 624
    Vo vivo Señor porque tu vives
 [V1]
 Yo vivo. Señor, porque tú vives; porque tú vives. Señor, es que yo vivo.
@@ -1703,7 +1703,7 @@ Yo vivo. Señor, porque tú vives; porque tú vives. Señor, es que yo vivo.
 
 
 
-#     625
+###     625
     Pero queda Cristo
   
   [V1]
@@ -1740,14 +1740,14 @@ Yo vivo. Señor, porque tú vives; porque tú vives. Señor, es que yo vivo.
   lleno de gloria en majestuosa nube! Pero, ¡qué dicha cuando al cielo sube,
    lleno de gloria en majestuosa nube! 
 
-# 626 La pérdida más grande
+### 626 La pérdida más grande
 
 Perder los bienes es mucho, 
 perder la salud es aún más, 
 perder el alma es pérdida tal, 
 que no se recobra jamás.
 
-# 627 Soy la triste oveja
+### 627 Soy la triste oveja
 
 [V1]
 Soy la triste oveja que dejó al Pastor;
@@ -1768,7 +1768,7 @@ que muy tiernos pastos tendré para ti.
 Conmigo por siempre tú vas a vivir.
 
 
-  #        628
+  ###        628
   iCuán felices fuimos!
 [V1]
 Cuán felices fuimos desde que creimos en el Cristo amado que fuera inmolado!
@@ -1805,7 +1805,7 @@ Cuán felices fuimos desde que creimos en el Cristo amado que fuera inmolado!
  ‘pues ignoran ellos”, dijo, “lo que hacen”.
 
 
-# 629 Un nombre nuevo en la gloría
+### 629 Un nombre nuevo en la gloría
 
 [V1]
 Una vez perdido vivía yo lejos y vagante en error
@@ -1836,7 +1836,7 @@ que me use por su amor.
 
 
 
-# 630 Mi pequeño corazón
+### 630 Mi pequeño corazón
   
 [V1]
 Mi pequeño corazón entrego a Cristo 
@@ -1849,7 +1849,7 @@ Desde  ahora yo me entrego a Jesucristo,
 desde ahora yo me entrego a Jesucristo,
 desde ahora yo me entrego a Jesucristo;
 a él entrego yo mi corazón.
-#      631
+###      631
        No tengo temor
   
   [V1]
@@ -1873,7 +1873,7 @@ a él entrego yo mi corazón.
   [V3]
   El      que guarda mi alma, nunca se dormirá; si mi pie resbala.
        él me sostendrá; en mi vida diaria es mi protector; cuán nel es su palabra: “Siempre contigo estoy”.
-# 632 Sólo el poder de Dios
+### 632 Sólo el poder de Dios
 
 Sólo el poder de Dios 
 Puede cambiar tu ser; 
@@ -1886,7 +1886,7 @@ nueva criatura soy,
 nueva soy.
        
        
-# 633 Ven amigo a Jesús
+### 633 Ven amigo a Jesús
    
 
 [V1]
@@ -1910,7 +1910,7 @@ quitará tupesar por su consolación.
 
 
 I
-# 634
+### 634
   Cantar, reír, orar
    
    
@@ -1931,7 +1931,7 @@ I
    a cantar, reír, orar; gran gozo nos dará.
 
 
-# 635 Nadie pudo amarme como Cristo
+### 635 Nadie pudo amarme como Cristo
 
 [V1]
 Yo quisiera hablarte del amor de Cristo,
@@ -1958,7 +1958,7 @@ no comprenderé porque vino a salvarme,
 hasta que en el cielo pueda ver su faz.
 
 
-# 636 Cristo es la peña de Horeb
+### 636 Cristo es la peña de Horeb
 
 [V1]
 Cristo es la peña de Horeb, que está brotanclo,
@@ -1981,7 +1981,7 @@ El es la Rosa blanca y pura de Sarón.
 
 
 
-   #   637 Solo no estoy
+   ###   637 Solo no estoy
  Solo no estoy, Jesús está a mi lado. Amigo fiel que no me dejará.
   Solo no estoy en tempestad o en calma,
   mi buen Jesús, su protección me da Aimque la tempestad me azote, y el mundo me desprecie, no temeré llevar la cruz, pues me guía con su amor.
@@ -1999,7 +1999,7 @@ perdón te ruego, mi Señor y Dios.
   [V2]
   SÍ vana y fútil mi palabra ha sido, si al que sufiía en su dolor dejé, no me condenes tú por mi pecado, perdón te ruego, mi Señor y Dios.
 
-# 639 El mundo no es mi hogar
+### 639 El mundo no es mi hogar
 [V1]
 El mundo no es mi hogar, soy peregrino aquí;
   en la ciudad de luz, tendré tesoros, sí.
@@ -2019,7 +2019,7 @@ El mundo no es mi hogar, soy peregrino aquí;
   perfecta paz allá por siempre gozaré,
   y la vida mundana jamás desearé.
   
- #  640
+ ###  640
                       Cuando en ocaso mi sol se ponga
   
   [V1]
@@ -2036,7 +2036,7 @@ El mundo no es mi hogar, soy peregrino aquí;
   Cuando  en ocaso mi sol se ponga, a los que yo amo voy a mirar,
   los que primero de aquí se fueron y que con Cristo voy a encontrar.
 
-#   641
+###   641
   Suenan melodías en mi ser
   
   [V1]
@@ -2055,7 +2055,7 @@ El mundo no es mi hogar, soy peregrino aquí;
 
 
 
-#    642
+###    642
   He decidido seguir a Cristo
   [V1]
   He decidido seguir a Cristo, he decidido seguir a Cristo, he decidido seguir a Cristo; no vuelvo atrás, no vuelvo atrás.
@@ -2069,7 +2069,7 @@ El mundo no es mi hogar, soy peregrino aquí;
     [V4]
        Si otros vuelven yo sigo a Cristo, si otros vuelven yo sigo a Cristo, si otros vuelven yo sigo a Cristo; no vuelvo atrás, no vuelvo atrás.
 
-#  643 Canten del amor de Cristo
+###  643 Canten del amor de Cristo
    [V1]
    Canten del amor de Cristo, ensalzad al Redentor tributadle, santos todos, grande gloria y loor.
     [C]
@@ -2090,7 +2090,7 @@ El mundo no es mi hogar, soy peregrino aquí;
 
 
 
-# 644 Estamos tristes
+### 644 Estamos tristes
 
 ¿Estamos tristes? ¡No! ¡No! ¡No! 
 ¿Estamos tristes? ¡No! ¡No! ¡No! 
@@ -2098,7 +2098,7 @@ Pesares vienen, pesares van,
 en Dios confiamos, él nos guiara; 
 ¿estamos tristes? ¡No! ¡No! ¡No!
 
-#           645 De tal manera me amó
+###           645 De tal manera me amó
   [V1]
   Crucificado por mí fiie Jesús, de tal manera me amó.
   Sin murmurar fiie llevado a la Cruz,
@@ -2116,7 +2116,7 @@ en Dios confiamos, él nos guiara;
   Ya consumó mi eterna salvación, de tal manera me amó
 
 
-# 646 Oración matrimonial
+### 646 Oración matrimonial
 [V1]
 Tú, Señor, que bendijiste las bodas en Caná, has que sea permanente nuestra felicidad.
   Nuestra felicidad, en nuestro nuevo hogar; que no falten las virtudes ae tu gracia y amor sin par.
@@ -2129,7 +2129,7 @@ Tú, Señor, que bendijiste las bodas en Caná, has que sea permanente nuestra f
   Ser fieles, oh Señor, siguiéndote en pos; bajo tu divino amparo viviremos, oh Padre Dios.
 
 
-#                  647
+###                  647
                 Cuanto más le sirvo
   [V1]
   Desde que salí hacia el reino, desde que le di control, desde que mi alma es suya, cuanto más le sirvo, más es su dulzor.
@@ -2144,7 +2144,7 @@ Tú, Señor, que bendijiste las bodas en Caná, has que sea permanente nuestra f
 
 
 
-# 648 Buscad primero el reino de Dios
+### 648 Buscad primero el reino de Dios
 
 [V1]
 Buscad primero el reino de Dios 
@@ -2173,7 +2173,7 @@ Pedid, pedid y se os dará; buscad y hallaréis llamad,
 llamad la puerta se abrirá. 
 Aleluya,aleluya.
      
-#     649
+###     649
                       Engrandecido sea Dios
   [V1]
   Engrandecido sea Dios en esta reunión, en esta reunión.
@@ -2189,7 +2189,7 @@ Alegres, juntos a ima voz:
   Con gratitud, placer y amor:
   [V4]
   A    otras almas, ¡salva, oh Dios! Despiértalas, Señor, despiértalas. Señor, escucha nuestra petición.
-#      650
+###      650
                        Los que con lágrimas sembraron
  [V1]
  Los que con lágrimas sembraron, con regocijo segarán; donde sus lágrimas regaron, hermosas plantas crecerán.
@@ -2201,7 +2201,7 @@ Alegres, juntos a ima voz:
 
 
 
-# 651
+### 651
      La mañana gloriosa
   
   [V1]
@@ -2227,7 +2227,7 @@ Alegres, juntos a ima voz:
  ‘^ejad a los niños que vengan
 
 
-# 652
+### 652
   Es Cristo el Amigo de los niños
 [V1]
 Es Cristo el amigo de todos los niños;
@@ -2238,7 +2238,7 @@ Es Cristo el amigo de todos los niños;
   Vayamos nosotros al lado de Cnsto,
   llevemos a otros muy cerca de él.
 
-#          653
+###          653
   No hay senda sino El
 [V1]
 Si en esta vida andas sin gozo sin rumbo,
@@ -2253,7 +2253,7 @@ Si en esta vida andas sin gozo sin rumbo,
   “sere contigo siempre”, el Salvador dice;
   te invita en sus pisadas seguir.
 
-#          654
+###          654
   La nave ^evangelista*
 [V1]
 La nave ‘Evangelista’, marcha, marcha: la nave ‘EvaMeliste’ marcha para Canaán.
@@ -2271,7 +2271,7 @@ Con            viento en popa vuelan: vuelan, vuelan;
 [V4]
 Embárcate  coimiigo, sí, coimiigo; embárcate conmigo, tú, cansado de pecar; descanso te prometo, te prometo, descanso te prometo en aquel feliz lugar.
 
-# 655 Hermoso país
+### 655 Hermoso país
 
 [V1]
 Hermoso manto real; bello país de luz, 
@@ -2297,7 +2297,7 @@ sin penas ni temor, mucho gozaré yo.
 ¡Déjame, oh Dios, llegar al dulce hogar!
 
 
-# 656 Amor, amor
+### 656 Amor, amor
   Amor, amor, amor, amor, hermano mío, gózate. Ama a tu prójimo como a ti mismo.
   Dios es amor.
   Amor, amor, amor, amor, hermano mío, gózate. Ama a tú prójimo como a ti mismo.
@@ -2305,7 +2305,7 @@ sin penas ni temor, mucho gozaré yo.
 
 
 
-#  657
+###  657
      No tengo cuidados
   
   [V1]
@@ -2323,7 +2323,7 @@ sin penas ni temor, mucho gozaré yo.
   Un       día vendrá otra vez el Señor, al cielo él nos llevará,
   allí cesarán el afán y el dolor, pues Dios todo dominará.
 
-#         658
+###         658
 Mi Dios y yo
   [V1]
   Mi Dios y yo andamos por su prado amigos íntimos con gran amor, me Habla él, le cuento mis pesares; mi Dios y yo charlamos al andar. Me habla el, le cuento mis pesares; mi Dios y yo charlamos al andar.
@@ -2336,7 +2336,7 @@ Mi Dios y yo
   El mundo pasa con sus vanidades mi Dios y yo, eterno y sin fin.
 
 
-# 659 En la nueva Jerusalén
+### 659 En la nueva Jerusalén
 
 [V1]
 Cuando cesen los conflictos de la vida terrenal,
@@ -2370,7 +2370,7 @@ en la nueva Jerusalén.
 
 
 
-#  660
+###  660
   Bellas palabras de vida
   Bellas palabras de vida, son las de Cristo Jesús.
   Ellas alientan mi alma; dan fortaleza y luz.
@@ -2380,7 +2380,7 @@ en la nueva Jerusalén.
   Y llenan de gozo mi ser.
 
 
-# 661 La gracia que me levantó
+### 661 La gracia que me levantó
 
 [V1]
 De Dios la gracia alabaré inmensa como el mar; 
@@ -2408,7 +2408,7 @@ mas en la gloria fiel entonará; Jesús me levantó.
                        $1 no hubiera sido por el Señor
   Si no hubiera sido por el Señor; si no hubiera sido por el Señor; mi alma se hubiera perdido si no hubiera sido por el Señor; mi alma se hubiera perdido si no hubiera sido por el Señor.
 
-#  663 Un dulce canto en tu ser
+###  663 Un dulce canto en tu ser
   
 [V1]
 En tu ser un dulce canto gozarás de alegría, cada día,
@@ -2493,7 +2493,7 @@ no desprecies esta voz: es tu Señor.
 
 
 
-# 668
+### 668
     Levanten la bandera
   Levanten la bandera, los hijos del Señor;
   levanten la bandera, los hijos del Señor.
@@ -2550,13 +2550,13 @@ Espero unir mi canto al del grupo sacrosanto, que victorioso rendirá tributo al
   [V4]
   En el cielo nuestro cántico será alabanzas a Jesús;
   nuestro corazón allí rebosará de amor y gratitud.
-#   672
+###   672
   La Fuente de arriba
   La Fuente de arriba fluyendo está; el agua de vida tu sed saciará.
     Si tomas de ella la paz hallarás
   Leí gozo del cielo tú recibirás, i fuente de arriba fluyendo está; el agua de vida tu sed saciará.
   Si tomas de ella la paz hallarás y el gozo del cielo tú recibirás.
-#  673
+###  673
   $u gracia es mayor
 [V1]
 Su gracia es mayor si las cargas aumentan,
@@ -2569,7 +2569,7 @@ Su gracia es mayor si las cargas aumentan,
   [V2]
    Si nuestros recursos se habrán agotado,
   si fuerzas nos faltan para terminar, si al punto ya estamos de desanimamos, el tiempo ha llegado en que Dios obrará.
-#  674
+###  674
    Un hogar tengo en el cielo
   
   [V1]
@@ -2632,7 +2632,7 @@ Quizá  del ser amado te habrás de separar, y muy desconsolado te sientas desma
 
 
 
-#   677
+###   677
     Como los ríos van
   [V1]
   Como los ríos van hacia los mares, vienen los novios a tus altares; buscando, oh Señor, con reverencia que selles su amor con tu presencia.
@@ -2676,7 +2676,7 @@ a quien te ofrece perdón. Quien que con su crucificción consumó redención,
 ofreciendo el perdón y la consolación de que quiso morir para hacemos vivir.
 Consumó redención ofreciendo el perdón y la consolación del que quiso morir para hacemos vivir.
 Amén.
-#   679
+###   679
    Qué bella historia
 [V1]
 jQué bella historia!
@@ -2712,7 +2712,7 @@ jQué bella historia!
   [V3]
   Ya    no me importa lo que dijeron los enemigos de mi Señor:
   él me ha buscado y me ha salvado voy a la gloria, reino de amor. Siempre yo tengo luchas aquí, dulce descanso tengo allí, oh que gran gozo para mi alma cuando me llame el Señor.
-#  681
+###  681
      Más profundo
   
   [V1]
@@ -2809,7 +2809,7 @@ gande amor, sí grande amor de ios.
 Con la creación entono canto de loor;
 melodía de alegría elevo al Salvador.
 Grande amor, mis labios cantan, y con todos lo proclamen: g-ande amor, si, grande amor de Dios.
-# 687
+### 687
   Estoy contento porque soy de Cristo
 Estoy contento porque soy de Cristo;
 estoy contento porque soy de Cristo;
@@ -2870,7 +2870,7 @@ si en verdad eres salvo, di: “¡amén!”.
     Mío en la tristeza, mío en la alegría. Mío, mío, mío, Jesús es mío, mío para siempre, amén.
 
 
-# 690
+### 690
     El gran día del juicio
 
 [V1]
@@ -3002,7 +3002,7 @@ Oh Cristo mío, haz en mi alma un altar
 para adorarte con devoción.
 Oh Cristo mío, haz en mi alma un altar
 para adorarte de todo corazón.
-#  699
+###  699
   A la casa de Jaíro
   [V1]
   A la casa de Jairo iba Jesús; una gran multitud iba tras él.
@@ -3069,7 +3069,7 @@ Me encuentro yo feliz y voy a aquel país
 do para siempre cantaré al Señor.
 
 
-# 7C4
+### 7C4
  Marcharé con Jesús
   Marcharé con Jesús, por la senda de la luz,
   la victoria con Cristo a ganar. Marcharé sin temor, inflamado de valor, y por siempre su nombre ensalzar.
@@ -3104,11 +3104,11 @@ que sus heridas me dieron la vida, ¡alabo al bendito Jesús!
 
 
 
-#      706
+###      706
    Con Cristo en tu barco
   Con Cristo en tu barco todo marcha feliz, marcha feliz, marcha feliz, con Cristo en tu barco todo marcha feliz, el viento pasará.
   No tendrás temor, no tendrás temor, con Cristo en tu barco todo marcha feliz, el viento pasará.
-#      707
+###      707
   Cristo habita en mi ser
   
   [V1]
@@ -3137,7 +3137,7 @@ Por las mañanas las aves cantan
 las alabanzas de Cristo el Salvador.
 Y  tú, amigo, ¿por qué no cantas 
 las alabanzas de Cristo el Salvador?
-#   709
+###   709
     jubilosas nuestras voces
   
   [V1]
@@ -3164,7 +3164,7 @@ las alabanzas de Cristo el Salvador?
   [V3]
   tenemos un amigo que nos ama, nos ama, nos ama.
   tenemos un amigo que nos ama: su nombre es Jesús.
-# 711
+### 711
    Hay un precioso manantial
   
   [V1]
@@ -3212,7 +3212,7 @@ las alabanzas de Cristo el Salvador?
   (Solo)
   Mi confianza en ti reposa; tu darás divina paz.
   El perdón de mis pecados trae a mi alma gran solaz.
-# 714
+### 714
 Mi corazón contento está
   Mi corazón contento está, mi corazón contento está, porque el Señor ya me salvó.
   Mi corazón contento está, mi corazón contento está, porque el Señor ya me salvó.
@@ -3221,7 +3221,7 @@ Mi corazón contento está
  por la paz que ningún otro puede
   dar.
   ¡Oh, qué feliz, oh qué feliz se siente el alma con Jesús, por la paz que ningún otro puede dar.
-# 7/5
+### 7/5
    Cristo me salvó
   [V1]
   Canto feliz de Cristo Jesús; salvo soy, salvo soy de mis pecados ya me libertó Cristo me salvó.
@@ -3286,12 +3286,12 @@ sólo se detiene para predicar. ||
 Oh, gloria, aleluya, la iglesia sigue caminando; 
 oh gloria, aleluya, la iglesia sigue caminando, 
 sólo se detiene para predicar
-#  721
+###  721
  Cristo rompe las cadenas
  Cristo rompe las cadenas.
  Cristo rompe las cadenas,
   Cristo rompe las cadenas, y me libra a mí.
-#  722
+###  722
    Con pluma de oro
   Con pluma de oro escrito está, escrito está, escrito estó; con pluma de oro escrito está, escnto está, escrito está; mi nombre más allá.
   Más allá mi nombre escrito está; más allá mi nombre escrito está.
@@ -3353,7 +3353,7 @@ El profeta oraba y la lluvia caía.
         evangelio de paz el mundo entenderá.
   Y  el Evangelio de paz el mundo entenderá.
 
-# 732 Yo se que Cristo hará camino
+### 732 Yo se que Cristo hará camino
   
 [V1]
 Yo se que Cristo hará camino para mi,
@@ -3368,7 +3368,7 @@ Yo se que Cristo siempre me ayudara.
 
 
 
-# 733 La esclavitud de Egipto
+### 733 La esclavitud de Egipto
 [V1]
 En Egipto esclavo fiai sí, sí, oh ,sí. 
 En Egipto esclavo, fui del vil Faraón
@@ -3393,8 +3393,8 @@ Libre, tú me hiciste ibre, tú me
 hiciste libre, libre, Señor, (bis)
 
 
-#            734
-# Una mirada de fe
+# pending here          
+### 734 Una mirada de fe
   Una mirada de fe,
         una mirada Señor, es la que puede
   salvar al pecador.
@@ -3402,7 +3402,7 @@ hiciste libre, libre, Señor, (bis)
   porque una mirada de fe es la que te puede salvar.
   Y  si tu vienes a Cristo Jesús, él te perdonará,
   porque una mirada de fe es la que te puede salvar.
-#        735
+###        735
       Un palacio tengo allá
   [V1]
   Un palacio tengo allá, más lindo que el sol,
@@ -3418,7 +3418,7 @@ hiciste libre, libre, Señor, (bis)
   Si tú quieres ir al cielo, ven al Señor.
   Si tú quieres ir al cielo, ven al Señor.
   Ven, sin demorar.
-#        736
+###        736
       ¿Cuántas veces Señor perdonaré?
     ¿Cuántas veces Señor perdonaré? ¿Cuántas veces Señor perdonaré? Yo quiero perdonar y estar cerca de ti
   ¿cuántas veces Señor perdonaré? Setenta veces siete, setenta veces siete
@@ -3428,27 +3428,27 @@ hiciste libre, libre, Señor, (bis)
 
 
 
-#    737
+###    737
    Te recomiendo a Jesús
  Te recomiendo a Jesús, te recomiendo a Jesús.
  El te puede salvar, él te puede sanar:
  Te recomiendo a Jesús.
-#    738
+###    738
         A ti olí Jeliová
  A ti oh, Jehová levantaré mi alma a ti oh, Jehová levantaré mi alma. Dios mío en ti confío no sea avergonzado,
  no se burlan de mí mis enemigos. El ángel de Jehová acampa alrededor
   de los que temen y los defiende.
-#    739
+###    739
     Sin Dios nada somos
  Sin Dios nada somos en el mundo,
  sin Dios nada podemos hacer, ni las hojas de los árboles se mueven,
  si no es por su poder.
  Ni las hojas de ios árboles se mueven
  si no es por su poder.
-# 740 Amo yo
+### 740 Amo yo
  Amo yo, amo yo, a Jesús el Salvador
  a Jesús sigo yo, él es mi pastor; por los campos al andar con sus corderitos va; a Jesús sigo yo, él es mi pastor.
-#    741
+###    741
    Jesús no es tempestad
   
   [V1]
@@ -3460,11 +3460,11 @@ hiciste libre, libre, Señor, (bis)
   [V2]
         Y cantaré y cantaré tu grande amor
   tu grande amor que sólo en Cristo hay salvación.
-#    742
+###    742
         Vo tengo gozo
   Yo tengo gozo, gozo, gozo, gozo es tan hermoso que mi alma canta, canta de alegría Cristo está conmigo Cristo está conmigo cada día más.
-#       743
-#    Aleluya
+###       743
+###    Aleluya
   Alelu, alelu, aleluya gloria a Dios,
   Alelu, alelu, aleluya gloria a Dios.
   Gloria a Dios, aleluya. Gloria a Dios, aleluya. Gloria a Dios, aleluya. Gloria a Dios.
@@ -3521,7 +3521,7 @@ aleluya gloria a Dios.
 
 
 
-#  751
+###  751
  Solo Dios hace feliz
  l.Sólo Dios hace al hombre feliz sólo Dios hace al hombre feliz; la vida es nada todo se acaba sólo Dios hace al hombre feliz.
  [V2]
@@ -3530,12 +3530,12 @@ aleluya gloria a Dios.
  Soy feliz Cristo me salvó, soy feliz Cristo me salvó,
   SOY feliz Cristo me salvó.
    Gloria aleluya Cristo me salvó.
-#  752
+###  752
   Un hombre que anduvo
  Un hombre que anduvo en Galilea se llamaba Jesús de Nazareth y ahora está conmigo renueva si mi vida y aumenta cada día más y más mi fe.
  Fe más fe, amor más amor.
  ?[uién no puede amar al Salvador; e sin fe, amor sin amor no puede agradar al Señor.
-# 753
+### 753
     En esta reunión
  En esta reunión Cristo está
  El ha prometido estar,
@@ -3548,7 +3548,7 @@ aleluya gloria a Dios.
  cantar.
  Yo lo siento en mí, yo lo siento en mi porque su Espíritu me hace cantar.
                      754
-#  ¡Qué hogar feliz!
+###  ¡Qué hogar feliz!
   [V1]
   Con Cristo en la familia ¡Qué hogar feliz!
   ¡Qué hogar feliz! ipué hogar feliz!
@@ -3576,7 +3576,7 @@ aleluya gloria a Dios.
   ¡Que hogar feliz!
   ¡Que hogar feliz!
                      755
-#       Santo Espíritu
+###       Santo Espíritu
   Santo Espíritu llena mi vida pues contigo deseo andar. Santo Espíritu llena mi vida úsame las almas a salvar.
   [C]
    Alabanzas, alabanzas, alabanzas doy a Cristo el Rey. Alabanzas, alabanzas, alabanzas doy al Rey.
@@ -3663,7 +3663,7 @@ De     los niños el reino de los cielos será,
   [V3]
   Hambre   y sed en mi alma tengo yo; la satisface mi Jesús.
   Y en ningún otro hay salud y paz. Cristo es el Príncipe de luz.
-# 763
+### 763
         luventud
   [C]
    Juventud, oh, juventud adelante sin temor pregonad en alta voz el mensaje del Señor.
@@ -3726,7 +3726,7 @@ De     los niños el reino de los cielos será,
 
 
 
-# 767 La isla
+### 767 La isla
 [V1]
 Hay una isla llena de encanto do iré a morar, bella y fragante donde el Maestro baja a soñar; hay en mi isla aves que cantan trinos de amor y reclinado por los jardines se ve ai Señor.
   [C]
@@ -3823,7 +3823,7 @@ El himno de la reforma
    6.¡Oh!  qué delicia perennal qué gozo fi'atemal;
    allí por siempre gozarán en vida etemal.
 
-# 774   Los tiempos de quebranto
+### 774   Los tiempos de quebranto
   
   [V1]
   Hemos   llegado a los tiempos de quebranto;
@@ -3838,7 +3838,7 @@ El himno de la reforma
   para libramos de esta gran condenación.
   Que has hecho tú del talento que te he dado.
   No has hecho nada siervo malo, te dirá.
- # 775 iOh! Jehová
+ ### 775 iOh! Jehová
   
   [V1]
   ¡Oh! Jehová escucha mi palabra considera mi meditación
@@ -3848,7 +3848,7 @@ El himno de la reforma
   Siento mucho el haberte ofendido me propongo mas nunca pecar sin ti yo me siento perdido ven, consuélame, on, Dios de bondad
   [V2]
   MÍ   pecado, siempre está delante de mi mente no puedo borrar sólo Cristo que me inocente con su sangre me puede limpiar.
-#      776 Sí, yo sé
+###      776 Sí, yo sé
   
   [V1]
   Yo  vagué en noche oscura, pecador perdido fui caminé por senda dura más Jesús hallóme a mí.
@@ -3862,7 +3862,7 @@ El himno de la reforma
 
 
 
- #        777
+ ###        777
    El sábado lluvioso
   l .Hoy en la madrugada cayó la lluvia asi llenó las florecillas, doquiera fango vi.
   [V2]
@@ -3872,7 +3872,7 @@ El himno de la reforma
   a Dios rendimos loor.
   [V4]
   Un       rato muy alegre pasando todos, si, el sábado entrante me encontraré aquí.
-#         778
+###         778
                        Volver al mundo jamás podré
   
   [V1]
@@ -3887,7 +3887,7 @@ El himno de la reforma
   [V3]
   Ven,   oh amigo, al pie de la cruz donde he mirado a Cristo Jesús; puedes tener su perdón y su luz, ven, pues, oh, ven conmigo.
 
-# 779
+### 779
   Paz en el valle
   [V1]
   Pues cansado estoy mas tendré que seguir
@@ -3906,7 +3906,7 @@ El himno de la reforma
   y el niño pequeño con la bestia feroz,
   llena será toda la tierra de esa paz, oh, sí.
 
-#       780          Cristo te llama a ser colportor
+###       780          Cristo te llama a ser colportor
 [V1]
 Un amigo muy dulce y amante hoy te llama a ser colportor, noble obra es tomar el prospecto y llevar el mensaje de amor.
   [C]
@@ -3925,7 +3925,7 @@ Un amigo muy dulce y amante hoy te llama a ser colportor, noble obra es tomar el
   La  bandera de Cristo alcemos y felices marchemos en pos;
   a los cielos que al fin llegaremos a la excelsa presencia de Dios.
 
-#       781
+###       781
    La samaritana
   [V1]
   En la ciudad de Samaría en la fuente de Jacob muy precioso platicaba una mujer y el Señor.
@@ -3939,7 +3939,7 @@ Un amigo muy dulce y amante hoy te llama a ser colportor, noble obra es tomar el
   [V3]
   Yo    soy el agua de vida que habla contigo mujer y si de ella bebieres nunca jamás tendrás sed.
 
-#        782
+###        782
   Siguiendo a Cristo
   
   [V1]
@@ -3954,7 +3954,7 @@ Un amigo muy dulce y amante hoy te llama a ser colportor, noble obra es tomar el
   Amigo  rendido, entrégate a Cristo convence a tu alma, si dudas de él un día muy triste oí su palabra
   ?ue dijo a mi alma, busca a tu )ios.
 
-#        783
+###        783
  A los montes miraré
   
   [V1]
@@ -3970,7 +3970,7 @@ El Señor es quien te guarda, a tu diestra siempre está, ni de día ni de noche
 
 
 
-#        784
+###        784
    Allá en los olivos
   [V1]
   Allá en los Olivos, se oyó una plegaria de un hombre postrado, en hiunilde oración.
@@ -3981,7 +3981,7 @@ El Señor es quien te guarda, a tu diestra siempre está, ni de día ni de noche
   [V2]
   Así fue llevada la cruz al Calvario, así el pecado de lanumanidad.
   Por damos la vida le dieron la muerte por sus beneficios vinagre al tomar.
-#        785
+###        785
     Jesús Nazareno
   
   [V1]
@@ -3999,7 +3999,7 @@ El Señor es quien te guarda, a tu diestra siempre está, ni de día ni de noche
   Y    crucificado el divino Maestro vinagre con hiel diéronle a beber. Soldados se parten el santo vestuario
   y sobre sus capas la suerte se dio.
 
-# 786
+### 786
                        Bajo el cielo azul de Israel
   [V1]
   Bajo el cielo azul de Israel; brillan, brillan las estrellas y la noche está serena, brilla la luna en el mar.
@@ -4018,7 +4018,7 @@ El Señor es quien te guarda, a tu diestra siempre está, ni de día ni de noche
 
 
 
-#    787
+###    787
                        Misionero que vas
 [V1]
 Misionero que vas a cumplir tu misión, tú que anuncias la paz en extraña región; a los campos que vas; anunciando su amor; que mi Cristo te guarde y él te sostenga fiel hasta volvemos a ver.
@@ -4033,7 +4033,7 @@ Misionero que vas a los campos de labor anunciando las nuevas de Cristo el Salva
 Proclamando están los cielos al divino creador y hoy anuncia el firmamento todas tus obras Señor, incesantes noche y día dan señal de tu poder, sin palabras proclamando: Dios excelso del saber.
   [V2]
   Majestuoso el sol camina, por los cielos con esplendor, exaltando en su cammo llena el mundo de calor y tu ley ^ue es preciosa, brilla más que clara luz esclarece nuestras mentes guía las almas a Jesús.
-   #     789 A la lucha
+   ###     789 A la lucha
   
   [V1]
   A  la lucha Cristo te invita; hueste juvenil,
@@ -4059,7 +4059,7 @@ Proclamando están los cielos al divino creador y hoy anuncia el firmamento toda
 
 
 
-# 790
+### 790
   La ciudad santa
   [V1]
   Anoche tuve un sueño, un sueño sin igual,
@@ -4089,7 +4089,7 @@ Proclamando están los cielos al divino creador y hoy anuncia el firmamento toda
   Jerusalén, Jerusalén la noche ya jasó,
   losanna en lo alto, hosanna por siempre al Rey, hosanna en las alturas, hosanna por siempre. Amén.
  
- #        79/
+ ###        79/
  Ven al campo verde
   
   [V1]
